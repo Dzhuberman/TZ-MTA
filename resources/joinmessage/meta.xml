@@ -1,0 +1,4 @@
+<meta>
+     <info author="Dzhuberman" name="join_message" description="On Join Message"/>
+     <script src="join_msg_server.lua" type="server"/>
+</meta>

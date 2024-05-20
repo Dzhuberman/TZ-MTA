@@ -1,0 +1,4 @@
+<meta>
+     <info author="Dzhuberman" name="chat_message" description="Prints Colored Message"/>
+     <script src="chat_msg_client.lua" type="client"/>
+</meta>
